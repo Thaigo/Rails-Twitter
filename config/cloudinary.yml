@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: dzxk313ob
+  api_key: '379588416848642'
+  api_secret: LyLuBH2w7tZot58VzHl5j3ztj-c
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: dzxk313ob
+  api_key: '379588416848642'
+  api_secret: LyLuBH2w7tZot58VzHl5j3ztj-c
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: dzxk313ob
+  api_key: '379588416848642'
+  api_secret: LyLuBH2w7tZot58VzHl5j3ztj-c
+  enhance_image_tag: true
+  static_image_support: false
