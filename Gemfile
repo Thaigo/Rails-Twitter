@@ -38,6 +38,8 @@ gem 'bcrypt', '~> 3.1.7'
 gem 'knock', '~> 2.1', '>= 2.1.1'
 # Serializer json
 gem 'active_model_serializers'
+# Job scueduler execution
+gem 'sidekiq-scheduler'
 gem 'carrierwave'
 gem 'carrierwave-base64'
 gem 'cloudinary'
